@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doodle/static/css/main.e6c13ad2.css",
+    "main.js": "/doodle/static/js/main.98cc4cc2.js",
+    "static/js/787.e2c681ec.chunk.js": "/doodle/static/js/787.e2c681ec.chunk.js",
+    "index.html": "/doodle/index.html",
+    "main.e6c13ad2.css.map": "/doodle/static/css/main.e6c13ad2.css.map",
+    "main.98cc4cc2.js.map": "/doodle/static/js/main.98cc4cc2.js.map",
+    "787.e2c681ec.chunk.js.map": "/doodle/static/js/787.e2c681ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.98cc4cc2.js"
+  ]
+}
